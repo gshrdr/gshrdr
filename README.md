@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/gshrdr/gshrdr/ReadMeHeader.png" alt="cover" />
+  <img width="100%" src="/ReadMeHeader.png" alt="cover" />
 </div>
 
 ## Hello!
