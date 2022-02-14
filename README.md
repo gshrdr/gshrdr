@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://github.com/gshrdr/gshrdr/header.png" alt="cover" />
+</div>
+
 ## Hello!
 - I’m currently building my online portfolio: [gavinshr.com](https://www.gavinshr.com)   
 - I'm learning the following web-development technologies: React, JavaScript, HTML5, CSS3, & Three.JS
