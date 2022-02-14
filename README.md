@@ -16,3 +16,4 @@
 - Starting a YouTube channel
 - Learning Web 3.0 decentralized technologies 
 - Experimenting with AI/ML technologies
+- Taking my future profits from web development, buying land in the forest, and planting a bunch of trees
