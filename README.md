@@ -15,5 +15,7 @@
 - Building more side projects on my website, such as a JavaScript TileMap based terrain generator & evolution simulator
 - Starting a YouTube channel
 - Learning Web 3.0 decentralized technologies 
+- Experimenting with audio synthesis through code, generating music programmatically 
+- Learning more about 3D graphics rendering in a browser, building a 3D simulation
 - Experimenting with AI/ML technologies
 - Taking my future profits from web development, buying land in the forest and planting a bunch of trees
