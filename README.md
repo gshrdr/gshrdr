@@ -11,7 +11,8 @@
 - My GitHub contributions graph shows when I began working on my website portfolio and I decided to make a serious commitment to commit & track all of my code via GitHub. Before Dec. 2021, I worked on my projects via local backups. Going forward I plan on sticking with GitHub for easier version control, cloud backups and making my code open-source.
 
 ### Future Plans (Things I'm Interested In):
-- Finishing my blog, publishing content routinely, and setting up a newsletter
+- Finishing my blog, publishing content routinely and setting up a newsletter
+- Building more side projects on my website, such as a JavaScript TileMap based terrain generator & evolution simulator
 - Starting a YouTube channel
 - Learning Web 3.0 decentralized technologies 
 - Experimenting with AI/ML technologies
