@@ -13,9 +13,10 @@
 ### Future Plans (Things I'm Interested In):
 - Finishing my blog, publishing content routinely and setting up a newsletter
 - Building more side projects on my website, such as a JavaScript TileMap based terrain generator & evolution simulator
-- Starting a YouTube channel
+- Starting a YouTube channel where I teach coding + document the projects I'm working on 
 - Learning Web 3.0 decentralized technologies 
 - Experimenting with audio synthesis through code, generating music programmatically 
 - Learning more about 3D graphics rendering in a browser, building a 3D simulation
 - Experimenting with AI/ML technologies
+- Building another iOS application 
 - Taking my future profits from web development, buying land in the forest and planting a bunch of trees
