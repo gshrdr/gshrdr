@@ -18,5 +18,5 @@
 - Experimenting with audio synthesis through code, generating music programmatically 
 - Learning more about 3D graphics rendering in a browser, building a 3D simulation
 - Experimenting with AI/ML technologies
-- Building another iOS application 
+- Building [another](https://apps.apple.com/us/developer/gavin-shrader/id1319656496) iOS application 
 - Taking my future profits from web development, buying land in the forest and planting a bunch of trees
