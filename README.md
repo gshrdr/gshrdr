@@ -13,7 +13,7 @@
 ### Future Plans (Things I'm Interested In):
 - Finishing my blog, publishing content routinely and setting up a newsletter
 - Building more side projects on my website, such as a JavaScript TileMap based terrain generator & evolution simulator
-- Building [another](https://apps.apple.com/us/developer/gavin-shrader/id1319656496) iOS application 
+- Building [another](https://apps.apple.com/us/app/infinite-islands/id1379090038) iOS application 
 - Starting a YouTube channel where I teach coding + document the projects I'm working on 
 - Learning Web 3.0 decentralized technologies 
 - Experimenting with audio synthesis through code, generating music programmatically 
