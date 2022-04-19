@@ -18,10 +18,10 @@
 
 ### What I'm Working On:
 
-- [ ] Gaining real world commercial development experience
-- [ ] Automated unit & integration tests
-- [ ] Search Engine Optimization
-- [ ] API Integration
-- [ ] Modern full-stack back-end design
-- [ ] Modern CSS; Tailwind, CSS grid
-- [ ] Web accessibility; Semantic HTML 
+- Gaining real world commercial development experience
+- Automated unit & integration tests
+- Search Engine Optimization
+- API Integration
+- Modern full-stack back-end design
+- Modern CSS; Tailwind, CSS grid
+- Web accessibility; Semantic HTML 
