@@ -20,6 +20,7 @@
 ### What I'm Working On:
 
 - Gaining real world commercial development experience
+- Integrating a CMS system and building a blog 
 - Automated unit & integration testing
 - Search Engine Optimization
 - API Integration
