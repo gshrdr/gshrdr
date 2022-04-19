@@ -13,13 +13,14 @@
 ### What I'm Best At:
 
 - Front-end web development (HTML5, CSS3, JavaScript, React) 
+- Technical writing, documentation, and communication
 - User interface design  
 - iOS / Mobile Development
 
 ### What I'm Working On:
 
 - Gaining real world commercial development experience
-- Automated unit & integration tests
+- Automated unit & integration testing
 - Search Engine Optimization
 - API Integration
 - Modern full-stack back-end design
