@@ -17,6 +17,7 @@
 
 ### Code Demos
 
+- [My personal portfolio website](https://www.gavinshr.com)
 - [JavaScript tilemap simulator](https://www.gavinshr.com/JS-Sim-Env/index.html)
 - [JavaScript maze solver](https://gavinshr.com/MazeAlgorithm/index.html)
 - [Python software engineering concepts](https://github.com/gshrdr/Learning-Python)
