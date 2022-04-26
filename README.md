@@ -15,3 +15,14 @@
 ### Technical Writing
 
 - [How To Code And Publish Your First Website In 2022 With No Prior Experience](https://medium.com/@shrader.gavin/how-to-code-and-publish-your-first-website-in-2022-with-no-prior-experience-e5facba050e9)
+
+### Code Demos
+
+- JavaScript tilemap simulator: 
+https://www.gavinshr.com/JS-Sim-Env/index.html
+
+- JavaScript maze solver:
+https://gavinshr.com/MazeAlgorithm/index.html
+
+- Python software engineering demonstrations:
+https://github.com/gshrdr/Learning-Python
