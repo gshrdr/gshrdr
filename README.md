@@ -18,11 +18,8 @@
 
 ### Code Demos
 
-- JavaScript tilemap simulator: 
-https://www.gavinshr.com/JS-Sim-Env/index.html
+- [JavaScript tilemap simulator](https://www.gavinshr.com/JS-Sim-Env/index.html)
 
-- JavaScript maze solver:
-https://gavinshr.com/MazeAlgorithm/index.html
+- [JavaScript maze solver](https://gavinshr.com/MazeAlgorithm/index.html)
 
-- Python software engineering demonstrations:
-https://github.com/gshrdr/Learning-Python
+- [Python software engineering demonstrations](https://github.com/gshrdr/Learning-Python)
