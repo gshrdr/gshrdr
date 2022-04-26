@@ -9,7 +9,6 @@
 ### App Store Links
 
 - [Phoenix](https://www.gavinshr.com/projects#phoenix) - An upcoming iOS application, set to release in 2022
-
 - [Infinite Islands](https://apps.apple.com/us/app/infinite-islands/id1379090038) - An iOS Arcade Game
 
 ### Technical Writing
@@ -19,7 +18,5 @@
 ### Code Demos
 
 - [JavaScript tilemap simulator](https://www.gavinshr.com/JS-Sim-Env/index.html)
-
 - [JavaScript maze solver](https://gavinshr.com/MazeAlgorithm/index.html)
-
-- [Python software engineering demonstrations](https://github.com/gshrdr/Learning-Python)
+- [Python software engineering concepts](https://github.com/gshrdr/Learning-Python)
