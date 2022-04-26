@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="/HeaderImage.jpg" alt="cover" />
+  <img width="100%" src="/ReadMeHeader.jpg" alt="cover" />
 </div>
 
 ## Hello!
