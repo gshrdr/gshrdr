@@ -8,7 +8,7 @@
 
 ### App Store Links
 
--[Phoenix](https://www.gavinshr.com/projects#phoenix) - An upcoming iOS application, set to release in 2022
+- [Phoenix](https://www.gavinshr.com/projects#phoenix) - An upcoming iOS application, set to release in 2022
 
 - [Infinite Islands](https://apps.apple.com/us/app/infinite-islands/id1379090038) - An iOS Arcade Game
 
