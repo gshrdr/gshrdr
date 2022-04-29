@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="/gshrdr.jpg" alt="cover" />
+  <img width="100%" src="/GavinShraderLogo.png" alt="cover" />
 </div>
 
 ## Hello!
