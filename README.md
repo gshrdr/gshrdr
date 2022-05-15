@@ -6,7 +6,7 @@
 - You can view my portfolio @ [gavinshr.com](https://www.gavinshr.com)   
 - You can reach me via my [contact form](https://www.gavinshr.com/#contact)  
 
-### App Store Links
+### iOS Apps
 
 - [Phoenix](https://github.com/gshrdr/Phoenix) - An upcoming iOS application, set to release in 2022
   - In the process of being renamed + moved to [SimpleRun](https://github.com/gshrdr/SimpleRun)  
