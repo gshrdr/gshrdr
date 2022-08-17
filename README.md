@@ -3,6 +3,6 @@
 </div>
 
 ## Hello!
-- You can view my portfolio at [gavinshr.com](https://www.gavinshr.com)   
+- You can view my portfolio at [gavinshr.com](https://www.gavinshr.com) (website under construction)
 
 
