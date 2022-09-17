@@ -4,5 +4,5 @@
 
 <br/>
 
-You can view my portfolio website @ [gavinshr.com](https://www.gavinshr.com)
+**You can view my portfolio website @ [gavinshr.com](https://www.gavinshr.com)**
 
