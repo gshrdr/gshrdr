@@ -4,5 +4,6 @@
 
 <br/>
 
+<div align="center">
 **You can view my portfolio website @ [gavinshr.com](https://www.gavinshr.com)**
-
+</div>
