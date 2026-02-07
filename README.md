@@ -6,6 +6,6 @@
 
 <div align="center">
   <strong>
-    You can view my portfolio website @ <a href="https://www.gavinshr.com">gavinshr.com</a>
+    You can view my portfolio website @ <a href="https://www.gavinshrader.com">gavinshrader.com</a>
   </strong>
 </div>
